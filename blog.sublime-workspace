@@ -1,0 +1,266 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"url",
+				"urlImg"
+			],
+			[
+				"noi",
+				"noticia"
+			],
+			[
+				"des",
+				"destroy"
+			],
+			[
+				"No",
+				"Noticia"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"De",
+				"DeterLm"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/pablo/Proyectos/blog/blog.sublime-project",
+		"/home/pablo/Proyectos/blog/app/Http/Controllers/Noticias.php",
+		"/home/pablo/Proyectos/blog/resources/views/home.blade.php",
+		"/home/pablo/Proyectos/blog/resources/views/layouts/modificar.blade.php",
+		"/tmp/fz3temp-1/consultasCentro.php",
+		"/home/pablo/Proyectos/blog/app/Http/Controllers/HomeController.php",
+		"/home/pablo/Proyectos/blog/resources/views/layouts/formulario.blade.php",
+		"/home/pablo/Proyectos/blog/app/Noticia.php",
+		"/home/pablo/Proyectos/blog/resources/views/layouts/tabla.blade.php",
+		"/tmp/fz3temp-1/Sistemas.php",
+		"/tmp/fz3temp-1/cabecera.php",
+		"/tmp/fz3temp-1/barra_titulos.php",
+		"/tmp/fz3temp-1/menu.php",
+		"/tmp/fz3temp-1/pie.php",
+		"/tmp/fz3temp-1/lm.png",
+		"/tmp/fz3temp-1/inicio.png",
+		"/tmp/fz3temp-1/LabMedicina-250.png",
+		"/tmp/fz3temp-1/consultas.php",
+		"/home/pablo/Proyectos/blog/storage/logs/laravel.log",
+		"/home/pablo/Proyectos/blog/config/filesystems.php",
+		"/home/pablo/Proyectos/blog/routes/web.php",
+		"/home/pablo/Proyectos/blog/database/migrations/2017_11_11_152110_create_noticias_table.php",
+		"/home/pablo/Proyectos/blog/.env.example",
+		"/home/pablo/Proyectos/blog/.env",
+		"/home/pablo/Escritorio/DatabaseInfo.php",
+		"/tmp/fz3temp-1/L302333353.txt",
+		"/tmp/fz3temp-1/PDFParticular.php",
+		"/tmp/fz3temp-1/ParticularPDF.class.php",
+		"/tmp/fz3temp-1/resu2510.txt",
+		"/tmp/fz3temp-1/contactenos.html",
+		"/tmp/fz3temp-1/contacto.html",
+		"/tmp/fz3temp-1/Archivos.php",
+		"/tmp/fz3temp-1/resu2610.txt",
+		"/tmp/fz3temp-1/index.html",
+		"/tmp/fz3temp-1/alcat_mundo.html",
+		"/tmp/fz3temp-1/libro.html",
+		"/tmp/fz3temp-1/alcat_mundo 2.html",
+		"/home/pablo/Escritorio/HOY/finddb.php",
+		"/tmp/fz3temp-1/L221797732.csv",
+		"/tmp/fz3temp-1/L221797732.txt",
+		"/tmp/fz3temp-1/L221753752.csv",
+		"/tmp/fz3temp-1/L302346374.csv",
+		"/tmp/fz3temp-1/L302311793.csv",
+		"/tmp/fz3temp-1/DefaultController.php",
+		"/tmp/fz3temp-1/dbf2mysqlAUTO.php",
+		"/tmp/fz3temp-1/resu3008.txt",
+		"/tmp/fz3temp-1/resu1310.txt",
+		"/tmp/fz3temp-1/L302327721.csv",
+		"/tmp/fz3temp-1/L302367555.txt",
+		"/home/pablo/Escritorio/mailgral2.html",
+		"/tmp/fz3temp-1/Archivos0.php",
+		"/home/pablo/Escritorio/sumar/CREATE view.sql",
+		"/tmp/fz3temp-1/L302322287.csv",
+		"/tmp/fz3temp-1/L302319818.csv",
+		"/tmp/fz3temp-1/L302358259.csv",
+		"/tmp/fz3temp-1/L302394371.csv",
+		"/tmp/fz3temp-1/L302367555.csv",
+		"/tmp/fz3temp-1/L302380092.csv",
+		"/tmp/fz3temp-1/resu0310.txt",
+		"/tmp/fz3temp-1/resu0510.txt",
+		"/tmp/fz3temp-1/LaboratorioPDF.class.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"100px",
+			"></",
+			"ss",
+			"z",
+			"$img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"app/Http/Controllers/Noticias.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 373.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
